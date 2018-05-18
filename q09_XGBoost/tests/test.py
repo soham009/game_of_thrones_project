@@ -2,8 +2,8 @@ import sys,os
 sys.path.append(os.path.join(os.path.dirname(os.curdir)))
 from unittest import TestCase
 from ..build import q09_XGBoost
-from q01_feature_engineering.build import q01_feature_engineering
-from q08_preprocessing.build import q08_preprocessing
+from greyatomlib.game_of_thrones.q01_feature_engineering.build import q01_feature_engineering
+from greyatomlib.game_of_thrones.q08_preprocessing.build import q08_preprocessing
 from xgboost import XGBClassifier as XGBC
 from inspect import getfullargspec
 import pandas as pd
