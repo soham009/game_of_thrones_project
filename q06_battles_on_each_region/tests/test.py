@@ -2,7 +2,7 @@ import sys,os
 sys.path.append(os.path.join(os.path.dirname(os.curdir)))
 from unittest import TestCase
 from ..build import q06_battles_on_each_region
-from q01_feature_engineering.build import q01_feature_engineering
+from greyatomlib.game_of_thrones.q01_feature_engineering.build import q01_feature_engineering
 from inspect import getfullargspec
 import pandas as pd
 
