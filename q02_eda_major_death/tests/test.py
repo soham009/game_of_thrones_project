@@ -1,8 +1,8 @@
 import sys,os
 sys.path.append(os.path.join(os.path.dirname(os.curdir)))
+from greyatomlib.game_of_thrones.q01_feature_engineering.build import q01_feature_engineering
 from unittest import TestCase
 from ..build import q02_eda_major_death
-from greyatomlib.game_of_thrones.q01_feature_engineering.build import q01_feature_engineering
 from inspect import getfullargspec
 import pandas as pd
 
