@@ -10,7 +10,7 @@ character_predictions = pd.read_csv('data/character-predictions.csv')
 cult = {
     'Summer Islands': ['summer islands', 'summer islander', 'summer isles'],
     'Ghiscari': ['ghiscari', 'ghiscaricari',  'ghis'],
-    'Asshai': ["asshai'i", 'asshai'],
+    'Asshai': ["asshai-i", 'asshai'],
     'Lysene': ['lysene', 'lyseni'],
     'Andal': ['andal', 'andals'],
     'Braavosi': ['braavosi', 'braavos'],
