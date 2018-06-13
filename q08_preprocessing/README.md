@@ -4,7 +4,7 @@ We quickly convert non-numeric categorical features to numeric. Then we drop som
 
 
 ## Write a function `q08_preprocessing` that :
-- Will the dataset and apply the previous function to the culture column and factorize (using pandas factorize function) the title,culture,mother,father,house,heir and spouse columns.
+- Will take the dataset and apply the previous function to the culture column and factorize (using pandas factorize function) the title,culture,mother,father,house,heir and spouse columns.
 - Drop the following columns as we dont need that "name", "alive", "pred", "plod", "isAlive", "dateOfBirth".
 - And replace the "." and "_" with empty spaces to columns and fill NA in dataframe with -1 values.
  
