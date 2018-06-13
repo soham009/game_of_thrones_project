@@ -15,4 +15,4 @@ None
 
 
 Note-
-- Your graph should look somewhat like this [Image](../images/q05_number_of_commanders.png)
+- Your graph should look somewhat like this [Image](https://github.com/commit-live-students/game_of_thrones_project/blob/master/images/q05_number_of_commanders.png)
