@@ -19,4 +19,4 @@ None
 
 
 Note-
-- Your graph should look somewhat like this [Image](../images/q02_eda_major_death.png)
+- Your graph should look somewhat like this [Image](https://github.com/commit-live-students/game_of_thrones_project/blob/master/images/q02_eda_major_death.png)
