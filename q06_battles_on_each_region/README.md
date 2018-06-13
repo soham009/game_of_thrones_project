@@ -20,4 +20,4 @@ We would like to see how are dead and capture have occured in various regions in
 
 
 Note-
-- Your graph should look somewhat like this [Image](../images/q06_battles_on_each_region.png)
+- Your graph should look somewhat like this [Image](https://github.com/commit-live-students/game_of_thrones_project/blob/master/images/q06_battles_on_each_region.png)
