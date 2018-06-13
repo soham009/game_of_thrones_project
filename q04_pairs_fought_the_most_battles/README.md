@@ -20,7 +20,8 @@ We need to know Which pair of houses fought against each other.
 
 
 Note-
-- Your graph should look somewhat like this [Image](../images/q04_pairs_fought_the_most_battles.png)
+- Your graph should look somewhat like this [Image](https://github.com/commit-live-students/game_of_thrones_project/blob/master/images/q04_pairs_fought_the_most_battles.png)
+
 Start step:
 - eg. list(Counter([tuple(set(x)) for x in battles.dropna(subset=["attacker_king", "defender_king"])[
         ["attacker_king", "defender_king"]].values if len(set(x)) > 1]).items())
