@@ -17,4 +17,4 @@ None
 
 
 Note-
-- Your graph should look somewhat like this [Image](../images/q03_eda_major_houses_on_attacking_side.png)
+- Your graph should look somewhat like this [Image](https://github.com/commit-live-students/game_of_thrones_project/blob/master/images/q03_eda_major_houses_on_attacking_side.png)
