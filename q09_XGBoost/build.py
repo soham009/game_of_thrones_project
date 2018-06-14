@@ -3,7 +3,7 @@ import numpy as np
 import sys,os
 sys.path.append(os.path.join(os.path.dirname(os.curdir)))
 from greyatomlib.game_of_thrones.q01_feature_engineering.build import q01_feature_engineering
-from q08_preprocessing.build import q08_preprocessing
+from greyatomlib.game_of_thrones.q08_preprocessing.build import q08_preprocessing
 from xgboost import plot_importance
 from sklearn.metrics import roc_auc_score,accuracy_score
 
